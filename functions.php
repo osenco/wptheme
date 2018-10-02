@@ -6,6 +6,8 @@
  * @since 0.1.0
  */
 
+require get_template_directory() . '/inc/pwa.php';
+
 /**
  * Include theme setup scripts
  */
